@@ -1,4 +1,4 @@
-# xyz-reader
+# XYZ Reader - Make your app material!
 
 ##Project Overview
 
