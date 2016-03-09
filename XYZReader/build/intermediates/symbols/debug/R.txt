@@ -667,6 +667,7 @@ int id line1 0x7f0d0087
 int id line3 0x7f0d008b
 int id listMode 0x7f0d000b
 int id list_item 0x7f0d0041
+int id main_toolbar 0x7f0d006f
 int id media_actions 0x7f0d0085
 int id meta_bar 0x7f0d007b
 int id middle 0x7f0d0031
@@ -731,7 +732,6 @@ int id thumbnail 0x7f0d0080
 int id time 0x7f0d0088
 int id title 0x7f0d0043
 int id title_template 0x7f0d0048
-int id toolbar 0x7f0d006f
 int id toolbar_container 0x7f0d006e
 int id top 0x7f0d0025
 int id topPanel 0x7f0d0047

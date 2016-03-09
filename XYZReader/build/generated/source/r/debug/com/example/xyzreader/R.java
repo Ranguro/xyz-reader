@@ -2414,6 +2414,7 @@ containing a value of this type.
         public static final int line3=0x7f0d008b;
         public static final int listMode=0x7f0d000b;
         public static final int list_item=0x7f0d0041;
+        public static final int main_toolbar=0x7f0d006f;
         public static final int media_actions=0x7f0d0085;
         public static final int meta_bar=0x7f0d007b;
         public static final int middle=0x7f0d0031;
@@ -2478,7 +2479,6 @@ containing a value of this type.
         public static final int time=0x7f0d0088;
         public static final int title=0x7f0d0043;
         public static final int title_template=0x7f0d0048;
-        public static final int toolbar=0x7f0d006f;
         public static final int toolbar_container=0x7f0d006e;
         public static final int top=0x7f0d0025;
         public static final int topPanel=0x7f0d0047;
