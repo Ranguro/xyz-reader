@@ -2233,9 +2233,10 @@ containing a value of this type.
         public static final int design_tab_scrollable_min_width=0x7f080019;
         public static final int design_tab_text_size=0x7f08006c;
         public static final int design_tab_text_size_2line=0x7f08006d;
+        public static final int detail_article_photo_height=0x7f08006e;
         public static final int detail_body_bottom_margin=0x7f08001a;
         public static final int detail_body_text_size=0x7f08001b;
-        public static final int detail_body_top_margin=0x7f08006e;
+        public static final int detail_body_top_margin=0x7f08006f;
         public static final int detail_card_max_width=0x7f080022;
         public static final int detail_card_top_margin=0x7f08000f;
         public static final int detail_inner_horiz_margin=0x7f080005;
@@ -2243,20 +2244,20 @@ containing a value of this type.
         public static final int detail_metabar_vert_padding=0x7f08001d;
         public static final int detail_photo_height=0x7f080006;
         public static final int detail_title_text_size=0x7f08001e;
-        public static final int disabled_alpha_material_dark=0x7f08006f;
-        public static final int disabled_alpha_material_light=0x7f080070;
-        public static final int fab_elevation=0x7f080071;
+        public static final int disabled_alpha_material_dark=0x7f080070;
+        public static final int disabled_alpha_material_light=0x7f080071;
+        public static final int fab_elevation=0x7f080072;
         public static final int fab_margin=0x7f08001f;
-        public static final int fab_press_translation_z=0x7f080072;
-        public static final int highlight_alpha_material_colored=0x7f080073;
-        public static final int highlight_alpha_material_dark=0x7f080074;
-        public static final int highlight_alpha_material_light=0x7f080075;
-        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f080076;
+        public static final int fab_press_translation_z=0x7f080073;
+        public static final int highlight_alpha_material_colored=0x7f080074;
+        public static final int highlight_alpha_material_dark=0x7f080075;
+        public static final int highlight_alpha_material_light=0x7f080076;
+        public static final int item_touch_helper_max_drag_scroll_per_frame=0x7f080077;
         public static final int list_side_margin=0x7f080023;
         public static final int list_toolbar_side_margin=0x7f080024;
-        public static final int notification_large_icon_height=0x7f080077;
-        public static final int notification_large_icon_width=0x7f080078;
-        public static final int notification_subtext_size=0x7f080079;
+        public static final int notification_large_icon_height=0x7f080078;
+        public static final int notification_large_icon_width=0x7f080079;
+        public static final int notification_subtext_size=0x7f08007a;
     }
     public static final class drawable {
         public static final int abc_ab_share_pack_mtrl_alpha=0x7f020000;
